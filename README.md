@@ -8,3 +8,6 @@ www.yahoo.com
 www.bing.com
 
 https://apkpure.net/ru/
+
+https://apkpure.net/ru/file-manager/com.alphainventor.filemanager
+
